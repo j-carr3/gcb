@@ -9,6 +9,9 @@ function App() {
         <p>
           WELCOME
         </p>
+        <p>
+          johnny & gina sittin' in a tree <b>K I S S I N G</b>
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
